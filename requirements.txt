@@ -112,8 +112,4 @@ typing_extensions==4.12.2
 urllib3==2.2.2
 uvicorn==0.30.6
 Werkzeug==3.0.1
-<<<<<<< HEAD
 yarl==1.9.4
-=======
-yarl==1.9.4
->>>>>>> caaaf3621d26ab1a01ae4694cc99306805f01bdb
