@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emma Thompson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures, but tough grader."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent at explaining complex concepts."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Knowledgeable, but often rushes through material."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Clear explanations and helpful office hours."
+      },
+      {
+        "professor": "Dr. Rachel Martinez",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Passionate about the subject, great lab instructor."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Lectures are dry, needs more interactive elements."
+      },
+      {
+        "professor": "Dr. Emily Brown",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Interesting case studies, fair assessments."
+      },
+      {
+        "professor": "Prof. Alexandra Kim",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Insightful analysis, encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Robert Taylor",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Solid theoretical knowledge, could use more real-world examples."
+      },
+      {
+        "professor": "Prof. Lisa Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Thought-provoking discussions, heavy reading load."
+      },
+      {
+        "professor": "Dr. Thomas White",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Balanced viewpoints, excellent debate moderator."
+      },
+      {
+        "professor": "Prof. Olivia Green",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Passionate about sustainability, inspiring field trips."
+      },
+      {
+        "professor": "Dr. Kevin Patel",
+        "subject": "Electrical Engineering",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes unclear in explanations."
+      },
+      {
+        "professor": "Prof. Natalie Wong",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Brings artworks to life with fascinating context."
+      },
+      {
+        "professor": "Dr. Christopher Adams",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Challenges students to think deeply, fair grader."
+      },
+      {
+        "professor": "Prof. Jennifer Smith",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Good industry insights, lectures could be more engaging."
+      },
+      {
+        "professor": "Dr. Daniel Brown",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Fascinating research experiences, great mentor."
+      },
+      {
+        "professor": "Prof. Laura Rodriguez",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Practical approach, helpful with design projects."
+      },
+      {
+        "professor": "Dr. Andrew Clark",
+        "subject": "Linguistics",
+        "stars": 3,
+        "review": "Interesting subject matter, but fast-paced curriculum."
+      },
+      {
+        "professor": "Prof. Sophia Lee",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Patient instructor, makes complex concepts accessible."
+      }
+    ]
+  }
