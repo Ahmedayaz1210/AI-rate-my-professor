@@ -129,7 +129,7 @@ export default function Home() {
               value={message}
               onChange={(e) => setMessage(e.target.value)}
               onKeyDown={handleKeyDown}
-              fullWidth
+            
               multiline
               maxRows={4}
   
