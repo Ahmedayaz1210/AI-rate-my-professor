@@ -13,8 +13,8 @@
 
 [Features](#-key-features) • [Installation](#-installation-and-setup) • [Usage](#-usage-guide) • [Challenges](#-challenges-and-learnings) • [Future Improvements](#-future-improvements)
 
-<img src="/public/screenshot1.png" alt="View" width="400"/>
-<img src="/public/screenshot2.png" alt="Query View" width="400"/>
+<img src="/public/professor1.png" alt="View" width="400"/>
+<img src="/public/professor2.png" alt="Query View" width="400"/>
 </div>
 
 ## 🌟 Project Overview
